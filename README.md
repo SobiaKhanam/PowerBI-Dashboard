@@ -1,4 +1,4 @@
-# 🛳️ Power BI Maritime Vessel Activity Dashboard
+# Power BI Maritime Vessel Activity Dashboard
 
 This project presents a comprehensive **Power BI dashboard** to analyze and visualize maritime vessel activity using real-world AIS (Automatic Identification System) data. The dashboard focuses on identifying trends and insights related to vessel types, flags, speeds, and fishing activity—providing valuable information for marine researchers, analysts, and maritime authorities.
 
@@ -28,7 +28,7 @@ Implemented DAX queries in Power BI's Query View for in-depth data exploration a
 
 ---
 
-## 💡 Highlights
+## Highlights
 
 - Created from raw AIS maritime data
 - Simple, clean and dark-themed UI as per user requirements for professional insight presentation
@@ -37,7 +37,7 @@ Implemented DAX queries in Power BI's Query View for in-depth data exploration a
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Power BI (Dashboard & Query View)
 - DAX (Data Analysis Expressions)
